@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
