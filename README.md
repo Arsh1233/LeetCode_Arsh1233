@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0048-rotate-image) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
