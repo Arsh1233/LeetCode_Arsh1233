@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
