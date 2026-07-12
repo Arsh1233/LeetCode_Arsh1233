@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
