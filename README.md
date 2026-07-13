@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
