@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0268-missing-number) |
 ## Sliding Window
