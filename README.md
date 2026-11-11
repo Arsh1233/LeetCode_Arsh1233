@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
