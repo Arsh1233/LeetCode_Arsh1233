@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0242-valid-anagram) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0242-valid-anagram) |
 ## Stack
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0242-valid-anagram) |
