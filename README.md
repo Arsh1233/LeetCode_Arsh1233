@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
