@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arsh1233/LeetCode_Arsh1233/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
